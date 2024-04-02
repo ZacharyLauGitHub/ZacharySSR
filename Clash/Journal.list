@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,pqdtcn.com
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,web.s.ebscohost.com
-DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnki.net,https://vpnu.whut.edu.cn
 DOMAIN-SUFFIX,g.wanfangdata.com.cn
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,link.springer.com
