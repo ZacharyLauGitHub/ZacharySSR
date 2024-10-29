@@ -2,6 +2,7 @@
 # > Apple Intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-KEYWORD,apple-relay,🤖 AI
 
 # > AI 包含 OpenAI、Bard、Claude、Perplexity 等
 DOMAIN-SUFFIX,googleapis.com
