@@ -1,7 +1,7 @@
-{"name":"Zacahry","icons":[
-    {   "name": "China.png",
-        "url": "https://raw.githubusercontent.com/ZacharyLauGitHub/ZacharySSR/refs/heads/master/test/China.png",  
-    {   "name": "bot.png",
-        "url": "https://raw.githubusercontent.com/ZacharyLauGitHub/ZacharySSR/refs/heads/master/test/bot.png", 
+{
+    "name":"Zacahry",
+    "icons":[
+       { "name": "China.png","url": "https://raw.githubusercontent.com/ZacharyLauGitHub/ZacharySSR/refs/heads/master/test/China.png"},  
+       { "name": "Bot.png","url": "https://raw.githubusercontent.com/ZacharyLauGitHub/ZacharySSR/refs/heads/master/test/Bot.png"}, 
     ]    
 }
