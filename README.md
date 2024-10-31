@@ -12,6 +12,14 @@ https://github.com/blackmatrix7/ios_rule_script
 
 https://github.com/KOP-XIAO/QuantumultX
 
+https://github.com/NobyDa
+
+https://github.com/Loyalsoldier/geoip
+
+https://github.com/Rabbit-Spec/Surge
+
+https://github.com/limbopro
+
 # 免责声明
 
 1. 项目内所涉及图标、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；
