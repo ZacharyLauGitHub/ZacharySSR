@@ -1,5 +1,7 @@
 # 参考
 
+https://github.com/blackmatrix7/ios_rule_script
+
 https://github.com/zxfccmm4/Surge
 
 https://github.com/bunizao/TutuBetterRules
@@ -12,7 +14,7 @@ https://github.com/erdongchanyo/icon
 
 https://github.com/Semporia/Hand-Painted-icon
 
-https://github.com/blackmatrix7/ios_rule_script
+https://github.com/Orz-3
 
 https://github.com/KOP-XIAO/QuantumultX
 
