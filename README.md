@@ -26,6 +26,8 @@ https://github.com/Rabbit-Spec/Surge
 
 https://github.com/limbopro
 
+https://github.com/Tartarus2014
+
 
 # 免责声明
 
